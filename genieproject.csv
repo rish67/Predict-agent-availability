@@ -1,0 +1,7 @@
+start_time,abandoned,resolved_time,abandoned_time,answer_time
+2,0,2,0,6
+4,0,20,0,10
+6,1,0,15,0
+12,1,0,25,0
+24,0,100,0,50
+48,1,0,30,0
